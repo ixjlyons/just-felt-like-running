@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Running 1/31/18 5:00 am]]></name>
+  <time>2018-01-31T13:00:56Z</time>
+<trkseg>
+<trkpt lat="38.546101000" lon="-121.756251000"><ele>15.7</ele><time>2018-01-31T13:00:56Z</time></trkpt>
+<trkpt lat="38.545113000" lon="-121.759118000"><ele>15.7</ele><time>2018-01-31T13:12:14Z</time></trkpt>
+<trkpt lat="38.545024000" lon="-121.759140000"><ele>15.7</ele><time>2018-01-31T13:12:17Z</time></trkpt>
+</trkseg>
+<trkseg>
+<trkpt lat="38.545024000" lon="-121.759140000"><ele>16.0</ele><time>2018-01-31T13:12:17Z</time></trkpt>
+<trkpt lat="38.545024000" lon="-121.759140000"><ele>16.0</ele><time>2018-01-31T13:12:17Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
